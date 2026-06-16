@@ -1,2 +1,2 @@
-# 100-days-of-code-python-bootcamp
-100 Days of Code: The Complete Python Pro Bootcamp Course on Udemy
+# 100 Days of Code: The Complete Python Pro Bootcamp
+This repository contains projects created as part of the 100 Days of Code: The Complete Python Pro Bootcamp on Udemy.
