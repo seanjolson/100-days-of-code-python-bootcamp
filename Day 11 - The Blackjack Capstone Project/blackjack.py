@@ -1,3 +1,6 @@
+# TODO: Implement logic to have dealer draw more than two cards
+# TODO: Implement logic to have A count as 1 or 11, depending on what is better
+
 import random
 
 # Ask user if they want to play blackjack
